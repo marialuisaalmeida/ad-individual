@@ -1,4 +1,5 @@
 🌸 trabalho-individual
+
 nome da desenvolvedora: Maria Luisa Almeida Pereira
 título: Loja de Maquiagem
 
