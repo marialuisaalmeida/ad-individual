@@ -14,7 +14,7 @@ O sistema foi desenvolvido no FlutterFlow e se integra a uma API hospedada no Re
 
 ✨ descrição das funcionalidades
 
-No FlutterFlow foram criadas as telas e fluxos principais do app, incluindo:
+No FlutterFlow foram criadas as telas ( print está incluído na documentação) e fluxos principais do app, incluindo:
 
 👤 Cadastro do usuário
 
